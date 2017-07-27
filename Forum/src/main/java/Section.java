@@ -3,5 +3,5 @@
  */
 public class Section {
     private String Name;
-    private LocalDateTime 
+    private LocalDateTime
 }
